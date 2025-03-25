@@ -1,0 +1,219 @@
+{
+    "new_providence": {
+      "name": "New Providence",
+      "iso_code": "BS-NP",
+      "settlements": [
+        "Grants Town",
+        "Bain Town",
+        "Fox Hill",
+        "Adelaide",
+        "Yamacraw",
+        "Carmichael",
+        "Golden Gates",
+        "South Beach",
+        "Cable Beach",
+        "Lyford Cay",
+        "Old Fort Bay",
+        "Paradise Island",
+        "Coral Harbour",
+        "Sea Breeze",
+        "Nassau Village",
+        "Montagu",
+        "Centreville",
+        "Englerston",
+        "The Grove",
+        "The Grove(West Bay)",
+        "Delaporte",
+        "Gambier",
+        "Love Beach"
+      ]
+    },
+    "grand_bahama": {
+      "name": "Grand Bahama",
+      "iso_code": "BS-GB",
+      "settlements": [
+        "Freeport",
+        "Eight Mile Rock",
+        "West End"
+      ]
+    },
+    "abaco": {
+      "name": "Abaco",
+      "iso_code": "BS-AB",
+      "settlements": [
+        "Marsh Harbour",
+        "Treasure Cay",
+        "Hope Town",
+        "Cooper's Town"
+      ]
+    },
+    "eleuthera": {
+      "name": "Eleuthera",
+      "iso_code": "BS-CE",
+      "settlements": [
+        "Governor's Harbour",
+        "Rock Sound",
+        "Tarpum Bay",
+        "Palmetto Point"
+      ]
+    },
+    "andros": {
+      "name": "Andros",
+      "iso_code": "BS-CS",
+      "settlements": [
+        "Nicholl's Town",
+        "Fresh Creek",
+        "Mastic Point",
+        "Cargill Creek"
+      ]
+    },
+    "exuma": {
+      "name": "Exuma",
+      "iso_code": "BS-EX",
+      "settlements": [
+        "George Town",
+        "Rolleville",
+        "Steventon"
+      ]
+    },
+    "long_island": {
+      "name": "Long Island",
+      "iso_code": "BS-LI",
+      "settlements": [
+        "Clarence Town",
+        "Deadman's Cay"
+      ]
+    },
+    "bimini": {
+      "name": "Bimini",
+      "iso_code": "BS-BI",
+      "settlements": [
+        "Alice Town",
+        "Bailey Town"
+      ]
+    },
+    "inagua": {
+      "name": "Inagua",
+      "iso_code": "BS-IN",
+      "settlements": [
+        "Matthew Town"
+      ]
+    },
+    "mayaguana": {
+      "name": "Mayaguana",
+      "iso_code": "BS-MG",
+      "settlements": [
+        "Abraham's Bay",
+        "Pirates Well"
+      ]
+    },
+    "cat_island": {
+      "name": "Cat Island",
+      "iso_code": "BS-CI",
+      "settlements": [
+        "Arthur's Town",
+        "Old Bight"
+      ]
+    },
+    "acklins": {
+      "name": "Acklins",
+      "iso_code": "BS-AC",
+      "settlements": [
+        "Snug Corner",
+        "Lovely Bay"
+      ]
+    },
+    "crooked_island": {
+      "name": "Crooked Island",
+      "iso_code": "BS-CK",
+      "settlements": [
+        "Colonel Hill"
+      ]
+    },
+    "ragged_island": {
+      "name": "Ragged Island",
+      "iso_code": "BS-RI",
+      "settlements": [
+        "Duncan Town"
+      ]
+    },
+    "san_salvador": {
+      "name": "San Salvador",
+      "iso_code": "BS-SS",
+      "settlements": [
+        "Cockburn Town"
+      ]
+    },
+    "rum_cay": {
+      "name": "Rum Cay",
+      "iso_code": "BS-RC",
+      "settlements": [
+        "Port Nelson"
+      ]
+    },
+    "great_inagua": {
+      "name": "Great Inagua",
+      "iso_code": "BS-GI",
+      "settlements": [
+        "Matthew Town"
+      ]
+    },
+    "berry_islands": {
+      "name": "Berry Islands",
+      "iso_code": "BS-BY",
+      "settlements": [
+        "Great Harbour Cay",
+        "Bullocks Harbour"
+      ]
+    },
+    "moore_s_island": {
+      "name": "Moore's Island",
+      "iso_code": "BS-MI",
+      "settlements": [
+        "Hard Bargain"
+      ]
+    },
+    "grand_cay": {
+      "name": "Grand Cay",
+      "iso_code": "BS-GC",
+      "settlements": [
+        "Bullocks Harbour"
+      ]
+    },
+    "green_turtle_cay": {
+      "name": "Green Turtle Cay",
+      "iso_code": "BS-GT",
+      "settlements": [
+        "New Plymouth"
+      ]
+    },
+    "great_guana_cay": {
+      "name": "Great Guana Cay",
+      "iso_code": "BS-GG",
+      "settlements": [
+        "Great Guana Cay"
+      ]
+    },
+    "little_san_salvador": {
+      "name": "Little San Salvador",
+      "iso_code": "BS-LT",
+      "settlements": [
+        "Half Moon Cay"
+      ]
+    },
+    "samana_cay": {
+      "name": "Samana Cay",
+      "iso_code": "BS-SC",
+      "settlements": [
+        "Samana Cay"
+      ]
+    },
+    "mayaguana": {
+      "name": "Mayaguana",
+      "iso_code": "BS-MG",
+      "settlements": [
+        "Abraham's Bay",
+        "Pirates Well"
+      ]
+    }
+}
