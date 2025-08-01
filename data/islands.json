@@ -2,7 +2,17 @@
     "new_providence": {
       "name": "New Providence",
       "iso_code": "BS-NP",
+      "type": "island",
+      "administrative_type": "island",
+      "capital": "Nassau",
+      "population": 274400,
+      "area_km2": 207,
+      "coordinates": {
+        "latitude": 25.0343,
+        "longitude": -77.3963
+      },
       "settlements": [
+        "Nassau",
         "Grants Town",
         "Bain Town",
         "Fox Hill",
@@ -22,58 +32,198 @@
         "Centreville",
         "Englerston",
         "The Grove",
-        "The Grove(West Bay)",
+        "The Grove (West Bay)",
         "Delaporte",
         "Gambier",
         "Love Beach"
       ]
     },
-    "grand_bahama": {
-      "name": "Grand Bahama",
-      "iso_code": "BS-GB",
+    "city_of_freeport": {
+      "name": "City of Freeport",
+      "iso_code": "BS-FP",
+      "type": "district",
+      "administrative_type": "city",
+      "capital": "Freeport",
+      "population": 26910,
+      "area_km2": 56,
+      "coordinates": {
+        "latitude": 26.5384,
+        "longitude": -78.6569
+      },
       "settlements": [
         "Freeport",
-        "Eight Mile Rock",
-        "West End"
+        "Lucaya",
+        "Port Lucaya"
       ]
     },
-    "abaco": {
-      "name": "Abaco",
-      "iso_code": "BS-AB",
+    "east_grand_bahama": {
+      "name": "East Grand Bahama",
+      "iso_code": "BS-EG",
+      "settlements": [
+        "High Rock",
+        "Rocky Creek",
+        "Pelican Point"
+      ]
+    },
+    "west_grand_bahama": {
+      "name": "West Grand Bahama",
+      "iso_code": "BS-WG",
+      "settlements": [
+        "Eight Mile Rock",
+        "West End",
+        "Holmes Rock",
+        "Pinder's Point"
+      ]
+    },
+    "central_abaco": {
+      "name": "Central Abaco",
+      "iso_code": "BS-CO",
+      "type": "district",
+      "administrative_type": "district",
+      "capital": "Marsh Harbour",
+      "population": 13170,
+      "area_km2": 649,
+      "coordinates": {
+        "latitude": 26.5412,
+        "longitude": -77.0636
+      },
       "settlements": [
         "Marsh Harbour",
         "Treasure Cay",
-        "Hope Town",
-        "Cooper's Town"
+        "Spring City",
+        "Murphy Town",
+        "Cherokee"
       ]
     },
-    "eleuthera": {
-      "name": "Eleuthera",
+    "north_abaco": {
+      "name": "North Abaco",
+      "iso_code": "BS-NO",
+      "settlements": [
+        "Cooper's Town",
+        "Cedar Harbour",
+        "Fire Road",
+        "Crown Haven"
+      ]
+    },
+    "south_abaco": {
+      "name": "South Abaco",
+      "iso_code": "BS-SO",
+      "settlements": [
+        "Sandy Point",
+        "Crossing Rocks",
+        "Cherokee Sound",
+        "Casuarina Point"
+      ]
+    },
+    "hope_town": {
+      "name": "Hope Town",
+      "iso_code": "BS-HT",
+      "settlements": [
+        "Hope Town",
+        "Elbow Cay"
+      ]
+    },
+    "central_eleuthera": {
+      "name": "Central Eleuthera",
       "iso_code": "BS-CE",
       "settlements": [
         "Governor's Harbour",
-        "Rock Sound",
-        "Tarpum Bay",
-        "Palmetto Point"
+        "Palmetto Point",
+        "Savannah Sound",
+        "James Cistern"
       ]
     },
-    "andros": {
-      "name": "Andros",
-      "iso_code": "BS-CS",
+    "north_eleuthera": {
+      "name": "North Eleuthera",
+      "iso_code": "BS-NE",
+      "settlements": [
+        "Current",
+        "Preacher's Cave",
+        "Glass Window Bridge",
+        "Gregory Town"
+      ]
+    },
+    "south_eleuthera": {
+      "name": "South Eleuthera",
+      "iso_code": "BS-SE",
+      "settlements": [
+        "Rock Sound",
+        "Tarpum Bay",
+        "Wemyss Bight",
+        "Bannerman Town"
+      ]
+    },
+    "harbour_island": {
+      "name": "Harbour Island",
+      "iso_code": "BS-HI",
+      "settlements": [
+        "Dunmore Town"
+      ]
+    },
+    "spanish_wells": {
+      "name": "Spanish Wells",
+      "iso_code": "BS-SW",
+      "settlements": [
+        "Spanish Wells"
+      ]
+    },
+    "north_andros": {
+      "name": "North Andros",
+      "iso_code": "BS-NS",
       "settlements": [
         "Nicholl's Town",
-        "Fresh Creek",
         "Mastic Point",
-        "Cargill Creek"
+        "San Andros",
+        "Lowe Sound"
+      ]
+    },
+    "central_andros": {
+      "name": "Central Andros",
+      "iso_code": "BS-CS",
+      "settlements": [
+        "Fresh Creek",
+        "Cargill Creek",
+        "Behring Point",
+        "Stanyard Creek"
+      ]
+    },
+    "south_andros": {
+      "name": "South Andros",
+      "iso_code": "BS-SA",
+      "settlements": [
+        "Driggs Hill",
+        "Kemp's Bay",
+        "Long Bay Cays",
+        "The Bluff"
+      ]
+    },
+    "mangrove_cay": {
+      "name": "Mangrove Cay",
+      "iso_code": "BS-MC",
+      "settlements": [
+        "Lisbon Creek",
+        "Moxey Town",
+        "Little Creek"
       ]
     },
     "exuma": {
       "name": "Exuma",
       "iso_code": "BS-EX",
+      "type": "district",
+      "administrative_type": "district",
+      "capital": "George Town",
+      "population": 7314,
+      "area_km2": 290,
+      "coordinates": {
+        "latitude": 23.5167,
+        "longitude": -75.7667
+      },
       "settlements": [
         "George Town",
         "Rolleville",
-        "Steventon"
+        "Steventon",
+        "Barraterre",
+        "Black Point"
       ]
     },
     "long_island": {
@@ -81,7 +231,9 @@
       "iso_code": "BS-LI",
       "settlements": [
         "Clarence Town",
-        "Deadman's Cay"
+        "Deadman's Cay",
+        "Stella Maris",
+        "Simms"
       ]
     },
     "bimini": {
@@ -89,7 +241,8 @@
       "iso_code": "BS-BI",
       "settlements": [
         "Alice Town",
-        "Bailey Town"
+        "Bailey Town",
+        "Porgy Bay"
       ]
     },
     "inagua": {
@@ -99,32 +252,28 @@
         "Matthew Town"
       ]
     },
-    "mayaguana": {
-      "name": "Mayaguana",
-      "iso_code": "BS-MG",
-      "settlements": [
-        "Abraham's Bay",
-        "Pirates Well"
-      ]
-    },
     "cat_island": {
       "name": "Cat Island",
       "iso_code": "BS-CI",
       "settlements": [
         "Arthur's Town",
-        "Old Bight"
+        "Old Bight",
+        "New Bight",
+        "The Bight"
       ]
     },
     "acklins": {
       "name": "Acklins",
-      "iso_code": "BS-AC",
+      "iso_code": "BS-AK",
       "settlements": [
         "Snug Corner",
-        "Lovely Bay"
+        "Lovely Bay",
+        "Spring Point",
+        "Chester's"
       ]
     },
     "crooked_island": {
-      "name": "Crooked Island",
+      "name": "Crooked Island and Long Cay",
       "iso_code": "BS-CK",
       "settlements": [
         "Colonel Hill"
@@ -151,19 +300,13 @@
         "Port Nelson"
       ]
     },
-    "great_inagua": {
-      "name": "Great Inagua",
-      "iso_code": "BS-GI",
-      "settlements": [
-        "Matthew Town"
-      ]
-    },
     "berry_islands": {
       "name": "Berry Islands",
       "iso_code": "BS-BY",
       "settlements": [
         "Great Harbour Cay",
-        "Bullocks Harbour"
+        "Bullocks Harbour",
+        "Chub Cay"
       ]
     },
     "moore_s_island": {
@@ -208,12 +351,20 @@
         "Samana Cay"
       ]
     },
+    "black_point": {
+      "name": "Black Point",
+      "iso_code": "BS-BP",
+      "settlements": [
+        "Black Point"
+      ]
+    },
     "mayaguana": {
       "name": "Mayaguana",
       "iso_code": "BS-MG",
       "settlements": [
         "Abraham's Bay",
-        "Pirates Well"
+        "Pirates Well",
+        "Betsy Bay"
       ]
     }
 }
